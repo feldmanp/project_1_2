@@ -7,14 +7,14 @@ Evaluate how the interest rate changes affects different segments of the propert
 ## Questions
 Our Analysis - will answer following
 
-* Correlation between the interest rates changes and the resindential property prices across different segments in Australia. For example, we will examine how the latest interest rate rise affect the capital cities, and how it compares to the regional property market
+* Correlation between the interest rates changes and the residential property prices across different segments in Australia. For example, we will examine how the latest interest rate rise affect the capital cities, and how it compares to the regional property market
 
 * Predict future trend for next 2-5 years in following scenarios
     * if interest rate continue to rise at current rate
-    * if interest rates stablise in an year
+    * if interest rates stabilise in an year
     * if interest rates decrease by a certain percentage
 
-* Impact on mortage type e.g emi of rising interest rate. Which type of plan is more beneficial for customers in present scenario.
+* Impact on different mortgage types . Which type of plan is more beneficial for customers in present scenario.
 
 ## Data
  ### Type of data and possible sources 
