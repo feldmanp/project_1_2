@@ -52,7 +52,7 @@ class Data:
     def load_residential_prop_df(self) -> pd.DataFrame :
         
 #        reade house prices from csv  
-        csv_path = "Resources/house_prices.csv"
+        csv_path = "Resources/res_dwell_st.csv"
         _residential_prop_prices_df = self.get_data_csv(Path(csv_path))
         
         return self._residential_prop_prices_df
